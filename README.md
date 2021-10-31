@@ -17,6 +17,9 @@ rec-1384-org        ethan    gazzola            49         sheaffe street       
 
 ## Saving record linkage compares and how to update?
 
+
+Figuring this out....
+
 ## What does this process look like on the Cloud?
 
 Figuring this out....
@@ -34,8 +37,6 @@ pickle.dump(model, open(file_name, "wb"))
 xgb_model_loaded = pickle.load(open(file_name, "rb"))
 ```
 
-# Steps
-
-### Resources
+# Resources
 * https://towardsdatascience.com/performing-deduplication-with-record-linkage-and-supervised-learning-b01a66cc6882
 * https://medium.com/@louis_amon/how-to-build-a-machine-learning-powered-record-linkage-workflow-b1890a0eb4ae
